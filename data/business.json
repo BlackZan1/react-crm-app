@@ -1,0 +1,26 @@
+{
+    "business": {
+        "tasks": [
+            {"_id": "t1", "name": "Программирование", "color": "red", "data": [
+                {"_id": "t1_1", "title": "Улучшить свой сайт", "done": true},
+                {"_id": "t1_ә", "title": "Изучить паттерны", "done": false}
+            ]},
+            {"_id": "t2", "name": "Саморазвитие", "color": "pink", "data": [
+                {"_id": "t2_1", "title": "Прочесть Шекспира", "done": true},
+                {"_id": "t2_2", "title": "Найти гладиолус", "done": false},
+                {"_id": "t2_3", "title": "Йога и медитация крия", "done": false}
+            ]},
+            {"_id": "t3", "name": "English Course", "color": "leaf", "data": [
+                {"_id": "t3_1", "title": "A lot of new words", "done": true},
+                {"_id": "t3_2", "title": "Buy a book for course", "done": true},
+                {"_id": "t3_3", "title": "Find where are my socks", "done": false}
+            ]},
+            {"_id": "t4", "name": "Спорт", "color": "blue", "data": [
+                {"_id": "t4_1", "title": "Пробежка по утрам 100 дней", "done": true},
+                {"_id": "t4_2", "title": "Подтягивания 60 раз 4 раз в неделю", "done": false},
+                {"_id": "t4_3", "title": "Баскетбол каждое воскресенье", "done": true}
+            ]}
+        ]
+    },
+    "ok": true
+}
