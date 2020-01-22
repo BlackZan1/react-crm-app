@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f21a4dfa9cbf75fbadaa7cc9b71e9da3",
+    "revision": "cde1cb5037d54047c240bd0dac91439f",
     "url": "/react-crm-app/index.html"
   },
   {
-    "revision": "873d9fcfc7b2e344f77d",
-    "url": "/react-crm-app/static/css/main.3e7cf5c1.chunk.css"
+    "revision": "b87e6151458e1283ecbc",
+    "url": "/react-crm-app/static/css/main.93405ba2.chunk.css"
   },
   {
-    "revision": "dff9fec944871b091edf",
-    "url": "/react-crm-app/static/js/2.d920a362.chunk.js"
+    "revision": "27dc7a149c0ce41bf6e0",
+    "url": "/react-crm-app/static/js/2.f6004195.chunk.js"
   },
   {
     "revision": "d34a11d4109fc2788407628ee7dce806",
-    "url": "/react-crm-app/static/js/2.d920a362.chunk.js.LICENSE"
+    "url": "/react-crm-app/static/js/2.f6004195.chunk.js.LICENSE"
   },
   {
-    "revision": "873d9fcfc7b2e344f77d",
-    "url": "/react-crm-app/static/js/main.ce010dab.chunk.js"
+    "revision": "b87e6151458e1283ecbc",
+    "url": "/react-crm-app/static/js/main.be53c378.chunk.js"
   },
   {
     "revision": "549047c4c3252a27a0ca",
