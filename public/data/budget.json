@@ -1,0 +1,18 @@
+{
+    "budget": {
+        "sum": 68000,
+        "course": "ru",
+        "income": [
+            {"_id": "in1", "title": "Получил зарплату", "sum": 55000, "color": "red", "course": "ru"},
+            {"_id": "in2", "title": "Подарок на Новый Год", "sum": 1500, "color": "blue", "course": "ru"},
+            {"_id": "in3", "title": "Продал чертежи", "sum": 600, "color": "yellow", "course": "ru"}
+        ],
+        "costs": [
+            {"_id": "c1", "title": "Сходил на каток", "sum": 400, "color": "green", "course": "ru"},
+            {"_id": "c2", "title": "Ужин с друзьями", "sum": 500, "color": "purple", "course": "ru"},
+            {"_id": "c3", "title": "Гамбургер", "sum": 100, "color": "pink", "course": "ru"},
+            {"_id": "c4", "title": "Тур для иностранцев", "sum": 10000, "color": "pink", "course": "ru"}
+        ]
+    },
+    "ok": true
+}

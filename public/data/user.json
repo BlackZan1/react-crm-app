@@ -1,0 +1,11 @@
+{    
+    "user": {
+        "name": "User123",
+        "email": "user123.ui@mail.com",
+        "password": "123user123",
+        "_id": "u1",
+        "image": "../static/image/user.jpg"
+    },
+    "isAuth": true,
+    "ok": true
+}
