@@ -2,7 +2,8 @@ import Axios from "axios"
 
 let inst = Axios.create({
     // baseURL: 'http://localhost:3001'
-    baseURL: 'http://localhost:3000'
+    // baseURL: 'http://localhost:3000'
+    baseURL: 'https://blackzan1.github.io/react-crm-app'
 })
 
 export const getBudgetData = async () => {
