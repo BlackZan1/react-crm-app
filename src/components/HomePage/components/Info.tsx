@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import userImage from '../../../img/user.png'
 
 interface InfoComponentProps {
     image: string | null
@@ -68,7 +69,7 @@ const InfoComponent: React.FC<InfoComponentProps> = ({image, email, name}) => {
         <InfoContainer>
             <InfoImage>
                 <div>
-                    <img src={image ? image : ''} alt="Loading..."/>
+                    <img src={image ? image : userImage} alt="Loading..."/>
                 </div>
             </InfoImage>
 
