@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-crm-app/precache-manifest.fc4b254a46b2f5bae96903ccf6e55a0a.js"
+  "/react-crm-app/precache-manifest.c0aafd90a34e6ff0f9964784b29bc2fc.js"
 );
 
 self.addEventListener('message', (event) => {
