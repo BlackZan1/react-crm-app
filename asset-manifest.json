@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-crm-app/static/css/main.93405ba2.chunk.css",
-    "main.js": "/react-crm-app/static/js/main.be53c378.chunk.js",
-    "main.js.map": "/react-crm-app/static/js/main.be53c378.chunk.js.map",
+    "main.js": "/react-crm-app/static/js/main.4d44cf25.chunk.js",
+    "main.js.map": "/react-crm-app/static/js/main.4d44cf25.chunk.js.map",
     "runtime-main.js": "/react-crm-app/static/js/runtime-main.26ac88b0.js",
     "runtime-main.js.map": "/react-crm-app/static/js/runtime-main.26ac88b0.js.map",
     "static/js/2.f6004195.chunk.js": "/react-crm-app/static/js/2.f6004195.chunk.js",
     "static/js/2.f6004195.chunk.js.map": "/react-crm-app/static/js/2.f6004195.chunk.js.map",
     "index.html": "/react-crm-app/index.html",
-    "precache-manifest.20827a38ea0005f481da5efc8a10b952.js": "/react-crm-app/precache-manifest.20827a38ea0005f481da5efc8a10b952.js",
+    "precache-manifest.d8e416008dff651410f2d3ecf9e13584.js": "/react-crm-app/precache-manifest.d8e416008dff651410f2d3ecf9e13584.js",
     "service-worker.js": "/react-crm-app/service-worker.js",
     "static/css/main.93405ba2.chunk.css.map": "/react-crm-app/static/css/main.93405ba2.chunk.css.map",
     "static/js/2.f6004195.chunk.js.LICENSE": "/react-crm-app/static/js/2.f6004195.chunk.js.LICENSE",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.26ac88b0.js",
     "static/js/2.f6004195.chunk.js",
     "static/css/main.93405ba2.chunk.css",
-    "static/js/main.be53c378.chunk.js"
+    "static/js/main.4d44cf25.chunk.js"
   ]
 }
