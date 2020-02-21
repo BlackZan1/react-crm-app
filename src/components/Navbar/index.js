@@ -44,19 +44,19 @@ const NavImage = styled.img`
 export default () => {
     return (
         <Navbar>
-            <NavLink to={'/business'} activeClassName="selected">
+            <NavLink to={'/react-crm-app/business'} activeClassName="selected">
                 <NavItem>
                     <NavImage src={businessImg} alt={'Loading...'}/>
                 </NavItem>
             </NavLink>
 
-            <NavLink to={'/home'} activeClassName="selected">
+            <NavLink to={'/react-crm-app/home'} activeClassName="selected">
                 <NavItem>
                     <NavImage src={homeImg} alt={'Loading...'}/>
                 </NavItem>
             </NavLink>
 
-            <NavLink to={'/budget'} activeClassName="selected">
+            <NavLink to={'/react-crm-app/budget'} activeClassName="selected">
                 <NavItem>
                     <NavImage src={budgetImg} alt={'Loading...'}/>
                 </NavItem>
